@@ -1,5 +1,6 @@
 #ifndef _ERROR_H_
 #define _ERROR_H_
+
 enum STATUSCODE
 {
     ACCEL_SUCCESS = 0,
@@ -8,4 +9,5 @@ enum STATUSCODE
     ACCEL_ERROR_INVALID_ARGUMENT,
     ACCEL_ERROR_INSUFFICIENT_BUFFER
 };
+
 #endif
