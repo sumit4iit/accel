@@ -11,6 +11,6 @@ public:
                                  uint32_t buffLen);
     static STATUSCODE httpEncode(char* strAddress, char* buff,
                                   uint32_t buffLen);
-}
+};
 
 #endif
