@@ -12,4 +12,5 @@ configure_file (
 
 include_directories("${PROJECT_BINARY_DIR}/include/")
 
+add_subdirectory(connect)
 #add_executable(Tutorial tutorial.cpp)
