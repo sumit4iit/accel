@@ -11,6 +11,6 @@ configure_file (
 )
 
 include_directories("${PROJECT_BINARY_DIR}/include/")
-
+include_directories("${PROJECT_BINARY_DIR}/connect/http")
 add_subdirectory(connect)
 #add_executable(Tutorial tutorial.cpp)
