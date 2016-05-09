@@ -1,5 +1,7 @@
 # ACCEL
 
+Testing on windows platform
+
 > This project aims to provide replacement for axel - download accelerator.
 
 Majority of the source is written in c++ and primarily targets Linux platforms.
